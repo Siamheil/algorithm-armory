@@ -177,6 +177,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
@@ -444,6 +446,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
 | ------- |
