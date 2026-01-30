@@ -23,6 +23,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2937-make-three-strings-equal](https://github.com/Siamheil/DSA/tree/master/2937-make-three-strings-equal) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/Siamheil/DSA/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Stack
@@ -168,6 +169,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -695,4 +697,12 @@
 | [0595-big-countries](https://github.com/Siamheil/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Siamheil/DSA/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Siamheil/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
