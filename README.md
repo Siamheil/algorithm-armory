@@ -125,6 +125,7 @@
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Siamheil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Siamheil/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
@@ -191,6 +192,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Siamheil/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
