@@ -1,15 +1,13 @@
 class Solution {
 public:
-    int fib(int n) {
+    int dp[31];
+    int solve(int n){
         if(n<=1) return n;
-        int curr;
-        int prev1=1;
-        int prev2=0;
-        for(int i=2;i<=n;i++){
-            curr=prev1+prev2;
-            prev2=prev1;
-            prev1=curr;
-        }
-        return curr;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=solve(n-1)+solve(n-2);
+    }
+    int fib(int n) {
+        memset(dp, -1, sizeof(dp));
+        return solve(n);
     }
 };
