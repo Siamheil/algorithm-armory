@@ -113,6 +113,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Siamheil/DSA/tree/master/0413-arithmetic-slices) |
@@ -352,6 +353,7 @@
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Siamheil/DSA/tree/master/0506-relative-ranks) |
@@ -414,6 +416,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
