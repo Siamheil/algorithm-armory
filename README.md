@@ -196,6 +196,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Siamheil/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/Siamheil/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -257,6 +258,7 @@
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Siamheil/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
