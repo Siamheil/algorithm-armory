@@ -161,6 +161,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Siamheil/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -199,6 +200,7 @@
 | [0441-arranging-coins](https://github.com/Siamheil/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
@@ -370,6 +372,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Siamheil/DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
