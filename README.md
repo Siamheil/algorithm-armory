@@ -158,6 +158,7 @@
 | [1390-four-divisors](https://github.com/Siamheil/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Siamheil/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Siamheil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
@@ -205,6 +206,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Siamheil/DSA/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/Siamheil/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
