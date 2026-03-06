@@ -147,6 +147,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Siamheil/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1095-find-in-mountain-array](https://github.com/Siamheil/DSA/tree/master/1095-find-in-mountain-array) |
 | [1127-last-stone-weight](https://github.com/Siamheil/DSA/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Siamheil/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -209,6 +210,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Siamheil/DSA/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Siamheil/DSA/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Siamheil/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Siamheil/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -724,6 +726,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Siamheil/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Siamheil/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Siamheil/DSA/tree/master/1095-find-in-mountain-array) |
 ## Combinatorics
 |  |
 | ------- |
