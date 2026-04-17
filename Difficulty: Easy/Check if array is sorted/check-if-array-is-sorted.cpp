@@ -1,13 +1,12 @@
 class Solution {
   public:
+    bool solve(int i,int n,vector<int>& arr){
+        if(i==n || i==n-1) return true;
+        if(arr[i]>arr[i+1]) return false;
+        return solve(i+1,n,arr);
+    }
     bool isSorted(vector<int>& arr) {
-        // code here
         int n=arr.size();
-        for(int i=0;i<n-1;i++){
-            if(arr[i]>arr[i+1]){
-                return false;
-            }
-        }
-        return true;
+        return solve(0,n,arr);
     }
 };
