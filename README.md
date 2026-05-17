@@ -174,6 +174,7 @@
 | [1390-four-divisors](https://github.com/Siamheil/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Siamheil/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Siamheil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
@@ -243,6 +244,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -276,6 +278,7 @@
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -312,6 +315,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Siamheil/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/Siamheil/DSA/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Siamheil/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/Siamheil/DSA/tree/master/1925-count-square-sum-triples) |
