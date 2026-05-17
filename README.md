@@ -20,6 +20,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Siamheil/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Siamheil/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -239,6 +240,7 @@
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siamheil/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -267,6 +269,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1319-unique-number-of-occurrences) |
