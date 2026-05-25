@@ -94,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Siamheil/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Siamheil/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siamheil/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Siamheil/DSA/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siamheil/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -419,6 +421,7 @@
 | [0506-relative-ranks](https://github.com/Siamheil/DSA/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Siamheil/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siamheil/DSA/tree/master/0977-squares-of-a-sorted-array) |
