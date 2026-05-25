@@ -320,6 +320,7 @@
 | [1512-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Siamheil/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/Siamheil/DSA/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Siamheil/DSA/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
@@ -390,6 +391,7 @@
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Siamheil/DSA/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
