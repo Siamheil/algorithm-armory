@@ -106,6 +106,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Array
@@ -206,6 +207,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -486,6 +488,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Siamheil/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Merge Sort
