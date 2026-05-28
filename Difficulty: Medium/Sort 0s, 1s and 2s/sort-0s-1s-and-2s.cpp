@@ -1,19 +1,20 @@
 class Solution {
-public:
+  public:
     void sort012(vector<int>& arr) {
-        int low = 0, mid = 0, high = arr.size()-1;
-        while(mid <= high){
-            if(arr[mid] == 0){
-                swap(arr[low], arr[mid]);
-                low++;
-                mid++;
+        int n=arr.size();
+        int i=0,j=0,k=n-1;
+        while(j<=k){
+            if(arr[j]==1){
+                j++;
             }
-            else if(arr[mid] == 1){
-                mid++;
+            else if(arr[j]==2){
+                swap(arr[j],arr[k]);
+                k--;
             }
             else{
-                swap(arr[mid], arr[high]);
-                high--;
+                swap(arr[i],arr[j]);
+                i++;
+                j++;
             }
         }
     }
