@@ -1,23 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        int n=nums.size();
-        if(n<4) return {};
         sort(nums.begin(),nums.end());
         vector<vector<int>>ans;
-        for(int i=0;i<n-3;i++){
+        int n=nums.size();
+        for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
-            for(int j=i+1;j<n-2;j++){
+            for(int j=i+1;j<n;j++){
                 if(j>i+1 && nums[j]==nums[j-1]) continue;
-                for(int k=j+1;k<n-1;k++){
-                    if(k>j+1 && nums[k]==nums[k-1]) continue;
-                    for(int l=k+1;l<n;l++){
-                        if(l>k+1 && nums[l]==nums[l-1]) continue;
-                        long long sum=(long long)nums[i]+(long long)nums[j]+(long long)nums[k]+(long long)nums[l];
-                        if(sum==target){
-                            ans.push_back({nums[i],nums[j],nums[k],nums[l]});
-                        }
-                    }
+                int p=j+1,q=n-1;
+                while(p<q){
+                    long long sum=(long long) nums[i]+nums[j]+nums[p]+nums[q];
+                    if(sum==target){
+                        ans.push_back({nums[i],nums[j],nums[p],nums[q]});
+                        p++;
+                        q--;
+                        while(p<q && nums[p]==nums[p-1]) p++;
+                        while(p<q && nums[q]==nums[q+1]) q--;
+                    }else if(sum<target) p++;
+                    else q--;
                 }
             }
         }
