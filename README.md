@@ -196,6 +196,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Siamheil/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Siamheil/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
