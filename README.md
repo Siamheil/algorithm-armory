@@ -163,6 +163,7 @@
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Siamheil/DSA/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Siamheil/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -290,6 +291,7 @@
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siamheil/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -772,6 +774,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/Siamheil/DSA/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
