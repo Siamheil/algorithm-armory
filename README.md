@@ -20,6 +20,7 @@
 | [0409-longest-palindrome](https://github.com/Siamheil/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Siamheil/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siamheil/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
@@ -100,6 +101,7 @@
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Siamheil/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Siamheil/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -291,6 +293,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Siamheil/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Siamheil/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
@@ -783,6 +786,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/Siamheil/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Siamheil/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
