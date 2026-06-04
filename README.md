@@ -222,6 +222,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -321,6 +322,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -794,6 +796,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Siamheil/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siamheil/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
