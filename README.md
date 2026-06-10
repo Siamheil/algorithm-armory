@@ -195,6 +195,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Siamheil/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Siamheil/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Siamheil/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -498,6 +499,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/Siamheil/DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Siamheil/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Siamheil/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siamheil/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
