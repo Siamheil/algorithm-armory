@@ -8,6 +8,7 @@
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siamheil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Siamheil/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
@@ -128,6 +129,7 @@
 | [0031-next-permutation](https://github.com/Siamheil/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siamheil/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Siamheil/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Siamheil/DSA/tree/master/0066-plus-one) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siamheil/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Siamheil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Siamheil/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siamheil/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Siamheil/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
