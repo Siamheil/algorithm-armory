@@ -80,6 +80,7 @@
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Siamheil/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Siamheil/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
@@ -237,6 +238,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Siamheil/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -335,6 +337,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Siamheil/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Siamheil/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
