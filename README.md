@@ -232,6 +232,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Siamheil/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -336,6 +337,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Siamheil/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -830,6 +832,7 @@
 | [1925-count-square-sum-triples](https://github.com/Siamheil/DSA/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bucket Sort
