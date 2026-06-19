@@ -34,6 +34,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2937-make-three-strings-equal](https://github.com/Siamheil/DSA/tree/master/2937-make-three-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Siamheil/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -225,6 +226,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -330,6 +332,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -484,6 +487,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
