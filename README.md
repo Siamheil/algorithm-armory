@@ -863,6 +863,7 @@
 | [0584-find-customer-referee](https://github.com/Siamheil/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Siamheil/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Siamheil/DSA/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/Siamheil/DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Siamheil/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Graph Theory
 |  |
