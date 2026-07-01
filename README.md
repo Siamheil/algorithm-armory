@@ -155,6 +155,7 @@
 | [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/Siamheil/DSA/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/Siamheil/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Siamheil/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Siamheil/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -368,6 +369,7 @@
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/Siamheil/DSA/tree/master/0384-shuffle-an-array) |
 | [0441-arranging-coins](https://github.com/Siamheil/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
@@ -409,6 +411,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Siamheil/DSA/tree/master/0155-min-stack) |
+| [0384-shuffle-an-array](https://github.com/Siamheil/DSA/tree/master/0384-shuffle-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siamheil/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
@@ -896,4 +899,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Siamheil/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Siamheil/DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
