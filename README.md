@@ -238,6 +238,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Siamheil/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/Siamheil/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -531,6 +532,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Siamheil/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2643-row-with-maximum-ones](https://github.com/Siamheil/DSA/tree/master/2643-row-with-maximum-ones) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
