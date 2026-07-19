@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int binaryToDecimal(vector<int>& arr) {
-    int ans = 0;
-    for (int bit : arr) {
-        ans = ans * 2 + bit;
-    }
-    return ans;
-}
-    int getDecimalValue(ListNode* head) {
-        vector<int>arr;
-        ListNode* curr=head;
+    ListNode* reverseLL(ListNode* head){
+        ListNode* curr=head,*prev=nullptr,*fut=nullptr;
         while(curr){
-            arr.push_back(curr->val);
-            curr=curr->next;
+            fut=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=fut;
         }
-        return binaryToDecimal(arr);
+        return prev;
+    }
+    int getDecimalValue(ListNode* head) {
+        int result=0,power=0;
+        head=reverseLL(head);
+        while(head){
+            if(head->val==1) result+=pow(2,power);
+            power++;
+            head=head->next;
+        }
+        return result;
     }
 };
