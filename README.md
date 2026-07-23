@@ -24,6 +24,7 @@
 | [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +52,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Siamheil/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Siamheil/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
@@ -108,6 +110,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Siamheil/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Siamheil/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Siamheil/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -545,6 +548,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Siamheil/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siamheil/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Siamheil/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
