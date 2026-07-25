@@ -267,6 +267,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Siamheil/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
+| [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/Siamheil/DSA/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -312,6 +313,7 @@
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
