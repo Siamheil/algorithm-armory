@@ -14,6 +14,7 @@
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Siamheil/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Siamheil/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siamheil/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siamheil/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -157,6 +158,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siamheil/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siamheil/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
@@ -498,6 +500,7 @@
 | [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -821,6 +824,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siamheil/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Siamheil/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
