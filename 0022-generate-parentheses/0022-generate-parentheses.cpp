@@ -1,18 +1,20 @@
 class Solution {
 public:
-    vector<string>result;
-    bool isValid(string &curr){
-        int count=0;
-        for(char ch:curr){
-            if(ch=='(') count++;
-            else count--;
-            if(count<0) return false;
+    bool isValid(string &s){
+        stack<char>st;
+        for(char c:s){
+            if(c=='(') st.push(c);
+            else{
+                if(st.empty()) return false;
+                else st.pop();
+            }
         }
-        return count==0;
+        return st.empty();
     }
+    vector<string>ans;
     void solve(string &curr,int n){
-        if(curr.length()==2*n) {
-            if(isValid(curr)) result.push_back(curr);
+        if(curr.length()==2*n){
+            if(isValid(curr)) ans.push_back(curr);
             return;
         }
         curr.push_back('(');
@@ -25,6 +27,6 @@ public:
     vector<string> generateParenthesis(int n) {
         string curr="";
         solve(curr,n);
-        return result;
+        return ans;
     }
 };
