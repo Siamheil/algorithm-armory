@@ -9,6 +9,7 @@ public:
         for(int i=1;i<=n;i++){
             if(mpp[i]==0) missing=i;
             if(mpp[i]==2) repeating=i;
+            if(missing!=-1 && repeating!=-1) break;
         }
         return {repeating,missing};
     }
