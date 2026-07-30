@@ -270,6 +270,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Siamheil/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Siamheil/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -327,6 +328,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Siamheil/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
@@ -384,6 +386,7 @@
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Siamheil/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Siamheil/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Siamheil/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
