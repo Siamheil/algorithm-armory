@@ -196,6 +196,7 @@
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Siamheil/DSA/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
+| [0896-monotonic-array](https://github.com/Siamheil/DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
