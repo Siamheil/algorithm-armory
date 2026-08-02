@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siamheil/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siamheil/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siamheil/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -155,6 +156,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Siamheil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siamheil/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siamheil/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -847,6 +849,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siamheil/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siamheil/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/DSA/tree/master/0503-next-greater-element-ii) |
