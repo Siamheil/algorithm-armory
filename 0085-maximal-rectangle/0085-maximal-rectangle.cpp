@@ -1,44 +1,42 @@
 class Solution {
 public:
-    
-    int largestRectangleArea(vector<int>& heights, int n) {
-        
-        if (n==0) return 0;
-        vector<int> l(n),  r(n);
-        r[n-1]=n, l[0]=-1;
-
-        for(int i=1; i<n; i++){
-            int p=i-1;
-            while(p>=0 && heights[p]>=heights[i])
-                p=l[p];
-            l[i]=p;
-        }
-
-        int maxA=heights[n-1]*(r[n-1]-l[n-1]-1);
-        for(int i=n-2; i>=0; i--){
-            int p=i+1;
-            while(p<n && heights[p]>=heights[i])
-                p=r[p];
-            r[i]=p;
-            maxA=max(maxA, heights[i]*(r[i]-l[i]-1));
-        }
-   
-        return maxA;
-    }
-
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        const unsigned short row=matrix.size(), col=matrix[0].size();
-        if (row==1 && col==1) return matrix[0][0]=='1';
-        vector<int> h(col);
-        int maxArea=0;
-
-        for(int i=0; i<row; i++){
-            for (int j=0; j<col; j++){
-                
-                h[j]=(matrix[i][j]=='0')?0:h[j]+1;
+    int largestRectangleArea(vector<int>& arr) {
+        int n=arr.size();
+        stack<int>st;
+        int ans=0;
+        int index;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[st.top()]>arr[i]){
+                index=st.top();
+                st.pop();
+                if(!st.empty())
+                ans=max(ans,(arr[index]*(i-st.top()-1)));
+                else 
+                ans=max(ans,arr[index]*i);
             }
-            maxArea=max(maxArea, largestRectangleArea(h, col));
+            st.push(i);
         }
-        return maxArea;
+        while(!st.empty()){
+            index=st.top();
+            st.pop();
+            if(!st.empty())
+            ans=max(ans,arr[index]*(n-st.top()-1));
+            else
+            ans=max(ans,arr[index]*n);
+        }
+        return ans;
+    }
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        int row=matrix.size(),col=matrix[0].size();
+        vector<int>heights(col,0);
+        int max_rec=0;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(matrix[i][j]=='0') heights[j]=0;
+                else heights[j]+=1;
+            }
+            max_rec=max(max_rec,largestRectangleArea(heights));
+        }
+        return max_rec;
     }
 };
