@@ -57,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/Siamheil/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/DSA/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
@@ -464,6 +465,7 @@
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Siamheil/DSA/tree/master/0838-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -848,6 +850,7 @@
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
@@ -883,6 +886,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siamheil/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
