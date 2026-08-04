@@ -292,6 +292,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/Siamheil/DSA/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Siamheil/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3731-find-missing-elements](https://github.com/Siamheil/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Siamheil/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -564,6 +566,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Siamheil/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
