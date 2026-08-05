@@ -262,6 +262,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Siamheil/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Siamheil/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Siamheil/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -392,6 +393,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Siamheil/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
