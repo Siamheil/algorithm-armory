@@ -37,6 +37,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2937-make-three-strings-equal](https://github.com/Siamheil/DSA/tree/master/2937-make-three-strings-equal) |
@@ -65,6 +66,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -132,6 +134,7 @@
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siamheil/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Siamheil/DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
