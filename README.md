@@ -43,6 +43,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/Siamheil/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Siamheil/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2937-make-three-strings-equal](https://github.com/Siamheil/DSA/tree/master/2937-make-three-strings-equal) |
@@ -100,6 +101,7 @@
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Siamheil/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Siamheil/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Siamheil/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Siamheil/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
@@ -360,6 +362,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
+| [2351-first-letter-to-appear-twice](https://github.com/Siamheil/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Siamheil/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -414,6 +417,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/Siamheil/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/Siamheil/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
