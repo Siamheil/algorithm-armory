@@ -158,6 +158,7 @@
 | [2540-minimum-common-value](https://github.com/Siamheil/DSA/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Siamheil/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Siamheil/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Siamheil/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Array
 |  |
@@ -300,6 +301,7 @@
 | [2643-row-with-maximum-ones](https://github.com/Siamheil/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Siamheil/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Siamheil/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -347,6 +349,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Siamheil/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/Siamheil/DSA/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Siamheil/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
 ## Counting
@@ -599,6 +602,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Siamheil/DSA/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Siamheil/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3467-transform-array-by-parity](https://github.com/Siamheil/DSA/tree/master/3467-transform-array-by-parity) |
