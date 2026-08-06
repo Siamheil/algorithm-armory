@@ -273,6 +273,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siamheil/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Siamheil/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Siamheil/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siamheil/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -362,6 +363,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siamheil/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Siamheil/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Siamheil/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -414,6 +416,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siamheil/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Siamheil/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
