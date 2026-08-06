@@ -270,6 +270,7 @@
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Siamheil/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/Siamheil/DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Siamheil/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Siamheil/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -421,6 +422,7 @@
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Siamheil/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/Siamheil/DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/Siamheil/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siamheil/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
