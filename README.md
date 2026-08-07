@@ -221,6 +221,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Siamheil/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siamheil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Siamheil/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Siamheil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -964,6 +965,7 @@
 | [0413-arithmetic-slices](https://github.com/Siamheil/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Siamheil/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Siamheil/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Siamheil/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Siamheil/DSA/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
