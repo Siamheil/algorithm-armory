@@ -275,6 +275,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Siamheil/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Siamheil/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siamheil/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1920-build-array-from-permutation](https://github.com/Siamheil/DSA/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Siamheil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -656,6 +657,7 @@
 | [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Siamheil/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siamheil/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1920-build-array-from-permutation](https://github.com/Siamheil/DSA/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Siamheil/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
