@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        unordered_map<int,int>mp;
-        for(int i=0;i<heights.size();i++){
-            mp[heights[i]]=i;
-        }
-        sort(heights.begin(),heights.end(),greater<int>());
+        vector<int>index(names.size());
+        for(int i=0;i<names.size();i++) index[i]=i;
+        auto my_comparator=[&](int &a,int &b){
+            return heights[a]>heights[b];
+        };
+        sort(index.begin(),index.end(),my_comparator);
         vector<string>ans;
-        for(int i=0;i<names.size();i++){
-            ans.push_back(names[mp[heights[i]]]);
+        for(auto i:index){
+            ans.push_back(names[i]);
         }
         return ans;
     }
-
 };
