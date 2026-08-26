@@ -179,6 +179,7 @@
 | [0039-combination-sum](https://github.com/Siamheil/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Siamheil/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Siamheil/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Siamheil/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Siamheil/DSA/tree/master/0056-merge-intervals) |
@@ -593,6 +594,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Siamheil/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Siamheil/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Siamheil/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
@@ -753,6 +755,7 @@
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Siamheil/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Siamheil/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siamheil/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
