@@ -514,6 +514,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Siamheil/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -965,6 +966,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Siamheil/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Siamheil/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Hash Function
 |  |
 | ------- |
