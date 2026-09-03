@@ -70,6 +70,7 @@
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/DSA/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -90,6 +91,7 @@
 | [0191-number-of-1-bits](https://github.com/Siamheil/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Siamheil/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -234,6 +236,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Siamheil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Siamheil/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Siamheil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siamheil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -799,6 +802,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -878,6 +882,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -947,6 +952,7 @@
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/DSA/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
@@ -1084,4 +1090,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Siamheil/DSA/tree/master/0051-n-queens) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
