@@ -522,6 +522,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3870-count-commas-in-range](https://github.com/Siamheil/DSA/tree/master/3870-count-commas-in-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Siamheil/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Prefix Sum
 |  |
