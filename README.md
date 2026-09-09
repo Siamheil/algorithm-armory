@@ -18,6 +18,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Siamheil/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Siamheil/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Siamheil/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siamheil/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siamheil/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -781,6 +782,7 @@
 | [0090-subsets-ii](https://github.com/Siamheil/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Siamheil/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Siamheil/DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Siamheil/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Siamheil/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Tree
@@ -806,6 +808,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Siamheil/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Siamheil/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siamheil/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Siamheil/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Siamheil/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siamheil/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -851,6 +854,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Siamheil/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Siamheil/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siamheil/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Siamheil/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Siamheil/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siamheil/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -897,6 +901,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Siamheil/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Siamheil/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siamheil/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Siamheil/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Siamheil/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siamheil/DSA/tree/master/0513-find-bottom-left-tree-value) |
