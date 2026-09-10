@@ -1,19 +1,20 @@
 class Solution {
   public:
-    void dfs(int node,vector<vector<int>>& adj,vector<int>&ans,vector<bool>&visited){
-        visited[node]=1;
-        ans.push_back(node);
-        for(int j=0;j<adj[node].size();j++){
-            if(!visited[adj[node][j]]){
-                dfs(adj[node][j],adj,ans,visited);
+    void dfs(vector<vector<int>>& adj,int u,vector<bool>& visited,vector<int>& ans){
+        if(visited[u]) return;
+        visited[u]=true;
+        ans.push_back(u);
+        for(int &v:adj[u]){
+            if(!visited[v]){
+                dfs(adj,v,visited,ans);
             }
         }
     }
     vector<int> dfs(vector<vector<int>>& adj) {
         int v=adj.size();
+        vector<bool>visited(v,false);
         vector<int>ans;
-        vector<bool>visited(v,0);
-        dfs(0,adj,ans,visited);
+        dfs(adj,0,visited,ans);
         return ans;
     }
 };
