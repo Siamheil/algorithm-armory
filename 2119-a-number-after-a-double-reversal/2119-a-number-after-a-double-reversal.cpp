@@ -11,7 +11,6 @@ public:
     bool isSameAfterReversals(int num) {
         int rev1=reverse(num);
         int rev2=reverse(rev1);
-        if(rev2==num) return true;
-        return false;
+        return rev2==num;
     }
 };
