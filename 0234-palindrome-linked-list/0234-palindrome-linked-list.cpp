@@ -1,35 +1,32 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head){
+        if(!head || !head->next) return head;
+        ListNode* curr=head;
+        ListNode* prev=nullptr;
+        ListNode* fut=curr->next;
+        while(fut){
+            curr->next=prev;
+            prev=curr;
+            curr=fut;
+            fut=fut->next;
+        }
+        curr->next=prev;
+        return curr;
+    }
     bool isPalindrome(ListNode* head) {
-        vector<int>ans;
-        ListNode* temp1=head;
-        while(temp1!=NULL){
-            ans.push_back(temp1->val);
-            temp1=temp1->next;
+        vector<int> arr;
+        ListNode* temp = head;
+        while(temp) {
+            arr.push_back(temp->val);
+            temp = temp->next;
         }
-        ListNode* temp2=head;
-        int i=ans.size()-1;
-        while(temp2!=NULL){
-            temp2->val=ans[i];
-            temp2=temp2->next;
-            i--;
+        head = reverseLL(head);
+        for(int i = 0; i < arr.size(); i++) {
+            if(arr[i] != head->val)
+                return false;
+            head = head->next;
         }
-        vector<int>reverse;
-        ListNode * temp3=head;
-        while(temp3!=NULL){
-            reverse.push_back(temp3->val);
-            temp3=temp3->next;
-        }
-        return (ans==reverse);
+        return true;
     }
 };
