@@ -1,28 +1,29 @@
 class Solution {
 public:
-    void bfs(int i,vector<bool>& visited,vector<vector<int>>& isConnected){
-        int n=isConnected.size();
-        visited[i]=true;
-        queue<int>q;
-        q.push(i);
-        while(q.size()>0){
-            int front=q.front();
-            q.pop();
-            for(int j=0;j<n;j++){
-                if(isConnected[front][j]==1 && visited[j]==false){
-                    q.push(j);
-                    visited[j]=true;
-                }
+    void solve(unordered_map<int,vector<int>>& adj,int u,vector<bool>& visited){
+        visited[u]=true;
+        for(int &v:adj[u]){
+            if(!visited[v]){
+                visited[v]=true;
+                solve(adj,v,visited);
             }
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        int count=0;
+    int findCircleNum(vector<vector<int>>& graph) {
+        int n=graph.size();
+        unordered_map<int,vector<int>>adj;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(graph[i][j]==1){
+                    adj[i].push_back(j);
+                }
+            }
+        }
         vector<bool>visited(n,false);
+        int count=0;
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                bfs(i,visited,isConnected);
+                solve(adj,i,visited);
                 count++;
             }
         }
