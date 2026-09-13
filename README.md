@@ -81,6 +81,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -161,6 +162,7 @@
 | [1768-merge-strings-alternately](https://github.com/Siamheil/DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Siamheil/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siamheil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Siamheil/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -578,6 +580,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Siamheil/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Siamheil/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Siamheil/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
