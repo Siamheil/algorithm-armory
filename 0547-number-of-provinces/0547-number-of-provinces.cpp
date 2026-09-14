@@ -1,11 +1,17 @@
 class Solution {
 public:
     void solve(unordered_map<int,vector<int>>& adj,int u,vector<bool>& visited){
+        queue<int>q;
+        q.push(u);
         visited[u]=true;
-        for(int &v:adj[u]){
-            if(!visited[v]){
-                visited[v]=true;
-                solve(adj,v,visited);
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            for(int &v:adj[node]){
+                if(!visited[v]){
+                    visited[v]=true;
+                    q.push(v);
+                }
             }
         }
     }
