@@ -16,6 +16,7 @@ public:
             }
             head=head->next;
         }
+        largep->next = nullptr;
         smallp->next=large->next;
         return small->next;
     }
