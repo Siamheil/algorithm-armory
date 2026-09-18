@@ -563,6 +563,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Siamheil/DSA/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Siamheil/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Siamheil/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siamheil/DSA/tree/master/0142-linked-list-cycle-ii) |
