@@ -1194,4 +1194,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Siamheil/DSA/tree/master/0207-course-schedule) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
