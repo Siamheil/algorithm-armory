@@ -530,6 +530,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Siamheil/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Siamheil/DSA/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Siamheil/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Siamheil/DSA/tree/master/3870-count-commas-in-range) |
@@ -593,6 +594,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/Siamheil/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siamheil/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Siamheil/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -618,6 +620,7 @@
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Siamheil/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Siamheil/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
