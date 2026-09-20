@@ -61,6 +61,7 @@
 | [3340-check-balanced-string](https://github.com/Siamheil/DSA/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Siamheil/DSA/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Siamheil/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -728,6 +729,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Siamheil/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Siamheil/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Merge Sort
 |  |
 | ------- |
