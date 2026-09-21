@@ -246,6 +246,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Siamheil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Siamheil/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Siamheil/DSA/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Siamheil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -650,6 +651,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Siamheil/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siamheil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siamheil/DSA/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Siamheil/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Siamheil/DSA/tree/master/0912-sort-an-array) |
@@ -775,6 +777,7 @@
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siamheil/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Siamheil/DSA/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -1036,6 +1039,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Siamheil/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Siamheil/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Siamheil/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -1198,4 +1202,5 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
