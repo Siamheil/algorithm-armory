@@ -1,13 +1,14 @@
 class Solution {
 public:
     int findMaxK(vector<int>& nums) {
-        unordered_map<int,int>mpp;
+        int n=nums.size();
+        unordered_set<int>st;
         int maxi=-1;
-        for(auto& it:nums){
-            if(mpp.count(-it)){
-                maxi=max(maxi,abs(it));
+        for(int i=0;i<n;i++){
+            if(st.count(-nums[i])){
+                maxi=max(maxi,abs(nums[i]));
             }
-            mpp[it]++;
+            st.insert(nums[i]);
         }
         return maxi;
     }
