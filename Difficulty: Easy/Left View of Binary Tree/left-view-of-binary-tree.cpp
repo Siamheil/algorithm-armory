@@ -1,31 +1,23 @@
-/*
-class Node {
-public:
-    int data;
-    Node* left;
-    Node* right;
-
-    Node(int val) {
-        data = val;
-        left = nullptr;
-        right = nullptr;
-    }
-};
-*/
-
 class Solution {
   public:
-    void dfs(Node *root,int level,vector<int>&ans){
-        if(root==NULL) return;
-        if(ans.size()<level) ans.push_back(root->data);
-        dfs(root->left,level+1,ans);
-        dfs(root->right,level+1,ans);
+    void levelOrder(Node* root,vector<int>& ans){
+        queue<Node*>q;
+        q.push(root);
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                Node* node=q.front();
+                q.pop();
+                if(i==0) ans.push_back(node->data);
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+        }
     }
     vector<int> leftView(Node *root) {
-        // code here
+        if(!root) return {};
         vector<int>ans;
-        int level=1;
-        dfs(root,level,ans);
+        levelOrder(root,ans);
         return ans;
     }
 };
