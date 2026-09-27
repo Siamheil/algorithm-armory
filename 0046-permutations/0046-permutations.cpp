@@ -2,26 +2,26 @@ class Solution {
 public:
     int n;
     vector<vector<int>>ans;
-    void solve(vector<int>& nums,vector<int>& temp,vector<int>& map){
+    void solve(vector<int>& nums,vector<int>& temp,vector<bool>& visited){
         if(temp.size()==n){
             ans.push_back(temp);
             return;
         }
-        for(int ind=0;ind<n;ind++){
-            if(!map[ind]){
-                temp.push_back(nums[ind]);
-                map[ind]=1;
-                solve(nums,temp,map);
+        for(int i=0;i<n;i++){
+            if(!visited[i]){
+                visited[i]=true;
+                temp.push_back(nums[i]);
+                solve(nums,temp,visited);
+                visited[i]=false;
                 temp.pop_back();
-                map[ind]=0;
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         n=nums.size();
-        vector<int>map(n,0);
         vector<int>temp;
-        solve(nums,temp,map);
+        vector<bool>visited(n,false);
+        solve(nums,temp,visited);
         return ans;
     }
 };
