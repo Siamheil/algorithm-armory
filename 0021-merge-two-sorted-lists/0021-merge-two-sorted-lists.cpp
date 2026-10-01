@@ -16,8 +16,8 @@ public:
                 tail->next=nullptr;
             }
         }
-        if(!list1) tail->next=list1;
-        else tail->next=list2;
+        if(!list1) tail->next=list2;
+        else tail->next=list1;
         return list->next;
     }
 };
