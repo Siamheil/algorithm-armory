@@ -1188,6 +1188,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Siamheil/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## DP on Trees
 |  |
