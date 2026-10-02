@@ -1215,4 +1215,12 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Siamheil/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Siamheil/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
