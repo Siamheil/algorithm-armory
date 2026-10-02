@@ -2,22 +2,21 @@ class Solution {
 public:
     int n;
     vector<vector<int>>ans;
-    void solve(int i,int target,vector<int>& arr,vector<int>& temp){
-        if(i==n){
-            if(target==0) ans.push_back(temp);
+    void solve(int i,vector<int>& nums,vector<int>& temp,int target,int sum){
+        if(sum==target){
+            ans.push_back(temp);
             return;
         }
-        if(arr[i]<=target){
-            temp.push_back(arr[i]);
-            solve(i,target-arr[i],arr,temp);
-            temp.pop_back();
-        }
-        solve(i+1,target,arr,temp);
+        if(i>=nums.size() || sum>target) return;
+        temp.push_back(nums[i]);
+        solve(i,nums,temp,target,sum+nums[i]);
+        temp.pop_back();
+        solve(i+1,nums,temp,target,sum);
     }
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
-        n=arr.size();
+    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
+        n=nums.size();
         vector<int>temp;
-        solve(0,target,arr,temp);
+        solve(0,nums,temp,target,0);
         return ans;
     }
 };
