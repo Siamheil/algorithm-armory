@@ -1,7 +1,7 @@
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
-        ListNode* curr=head,*prev=nullptr,*fut=nullptr;
+    ListNode* reverse(ListNode* head){
+        ListNode* curr=head,* prev=NULL,* fut=NULL;
         while(curr){
             fut=curr->next;
             curr->next=prev;
@@ -11,10 +11,12 @@ public:
         return prev;
     }
     int getDecimalValue(ListNode* head) {
+        head=reverse(head);
         int result=0,power=0;
-        head=reverseLL(head);
         while(head){
-            if(head->val==1) result+=pow(2,power);
+            if(head->val==1){
+                result=result+pow(2,power);
+            }
             power++;
             head=head->next;
         }
