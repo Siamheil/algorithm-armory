@@ -1,17 +1,20 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
-        vector<ListNode*>arr;
+        stack<ListNode*>st;
         ListNode* curr=head;
         while(curr){
-            while(!arr.empty() && arr.back()->val<curr->val) arr.pop_back();
-            arr.push_back(curr);
+            while(!st.empty() && st.top()->val<curr->val)
+                st.pop();
+            st.push(curr); 
             curr=curr->next;
         }
-        for(int i=0;i<arr.size()-1;i++){
-            arr[i]->next=arr[i+1];
+        ListNode* newHead=NULL;
+        while(!st.empty()){
+            st.top()->next=newHead;
+            newHead=st.top();
+            st.pop();
         }
-        arr.back()->next=nullptr;
-        return arr[0];
+        return newHead;
     }
 };
