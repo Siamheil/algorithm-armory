@@ -92,6 +92,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siamheil/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -553,6 +554,7 @@
 | [2383-add-two-integers](https://github.com/Siamheil/DSA/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Siamheil/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Siamheil/DSA/tree/master/3870-count-commas-in-range) |
@@ -621,6 +623,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siamheil/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Siamheil/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Siamheil/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
