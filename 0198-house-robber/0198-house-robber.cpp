@@ -9,7 +9,17 @@ public:
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int>dp(n,-1);
-        return solve(0,nums,dp);
+        if(n == 1)
+            return nums[0];
+        vector<int>dp(n,0);
+        dp[0]=nums[0];
+        dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            int take=0;
+            if(i>1) take=nums[i]+dp[i-2];
+            int nottake=dp[i-1];
+            dp[i]=max(take,nottake);
+        }
+        return dp[n-1];
     }
 };
