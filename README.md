@@ -237,6 +237,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Siamheil/DSA/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Siamheil/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Siamheil/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siamheil/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Siamheil/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siamheil/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Siamheil/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -449,6 +451,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Siamheil/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siamheil/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Siamheil/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Siamheil/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Siamheil/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siamheil/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -682,6 +685,7 @@
 | [0169-majority-element](https://github.com/Siamheil/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Siamheil/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Siamheil/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Siamheil/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Siamheil/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -1298,4 +1302,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siamheil/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Siamheil/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
