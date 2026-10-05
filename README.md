@@ -229,6 +229,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siamheil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siamheil/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siamheil/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Siamheil/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Siamheil/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Siamheil/DSA/tree/master/0179-largest-number) |
@@ -447,6 +448,7 @@
 | [0049-group-anagrams](https://github.com/Siamheil/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Siamheil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siamheil/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Siamheil/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Siamheil/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siamheil/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siamheil/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1223,6 +1225,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Siamheil/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Siamheil/DSA/tree/master/0547-number-of-provinces) |
 ## Queue
 |  |
