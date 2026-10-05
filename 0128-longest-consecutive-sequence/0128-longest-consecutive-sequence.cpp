@@ -4,14 +4,17 @@ public:
         int n=nums.size();
         if(n==0) return 0;
         sort(nums.begin(),nums.end());
-        int count=1;
-        int maxi=1;
-        for(int i=1;i<n;i++){
-            if(nums[i]==nums[i-1]) continue;
-            if(nums[i]==nums[i-1]+1) count++;
-            else count=1;
-            maxi=max(count,maxi);
+        int longest=1,cnt=0,lastSmaller=INT_MAX;
+        for(int i=0;i<n;i++){
+            if(nums[i]-1==lastSmaller){
+                cnt=cnt+1;
+                lastSmaller=nums[i];
+            }else if(lastSmaller!=nums[i]){
+                cnt=1;
+                lastSmaller=nums[i];
+            }
+            longest=max(longest,cnt);
         }
-        return maxi;
+        return longest;
     }
 };
