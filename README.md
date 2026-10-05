@@ -14,6 +14,7 @@
 | [0058-length-of-last-word](https://github.com/Siamheil/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Siamheil/DSA/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Siamheil/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Siamheil/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Siamheil/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -801,6 +802,7 @@
 | [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Siamheil/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Siamheil/DSA/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Siamheil/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Siamheil/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siamheil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
