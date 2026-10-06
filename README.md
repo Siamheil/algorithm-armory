@@ -41,6 +41,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Siamheil/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siamheil/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -86,6 +87,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Siamheil/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Siamheil/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Siamheil/DSA/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siamheil/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1115,6 +1117,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Siamheil/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siamheil/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siamheil/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1254,6 +1257,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Siamheil/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Siamheil/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Siamheil/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siamheil/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## DP on Trees
 |  |
 | ------- |
