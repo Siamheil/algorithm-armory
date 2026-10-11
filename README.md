@@ -364,6 +364,7 @@
 | [2653-sliding-subarray-beauty](https://github.com/Siamheil/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Siamheil/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Siamheil/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Siamheil/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1172,6 +1173,7 @@
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Siamheil/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Siamheil/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Siamheil/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siamheil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bucket Sort
