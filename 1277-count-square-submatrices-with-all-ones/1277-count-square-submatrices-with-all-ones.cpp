@@ -8,10 +8,6 @@ public:
                 if(i>0 && j>0){
                     matrix[i][j]+=min({matrix[i-1][j],matrix[i][j-1],matrix[i-1][j-1]});
                 }
-            }
-        }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
                 count+=matrix[i][j];
             }
         }
