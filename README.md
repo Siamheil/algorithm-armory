@@ -45,6 +45,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siamheil/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1092-shortest-common-supersequence](https://github.com/Siamheil/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Siamheil/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Siamheil/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -850,6 +851,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/Siamheil/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Siamheil/DSA/tree/master/1043-partition-array-for-maximum-sum) |
+| [1092-shortest-common-supersequence](https://github.com/Siamheil/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Siamheil/DSA/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Siamheil/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1331,5 +1333,6 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Siamheil/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Siamheil/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
